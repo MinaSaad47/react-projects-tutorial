@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "name": "Mina Saad",
+      "id": 0
+    },
+    {
+      "name": "Martha Von",
+      "id": 9
+    },
+    {
+      "name": "Bob Cremin",
+      "id": 10
+    },
+    {
+      "name": "Melvin Zulauf",
+      "id": 11
+    },
+    {
+      "name": "Gladys King",
+      "id": 12
+    }
+  ],
+  "albums": [
+    {
+      "name": "Intelligent Fresh Soap",
+      "userId": 9,
+      "id": 2
+    },
+    {
+      "name": "Handcrafted Fresh Shirt",
+      "userId": 12,
+      "id": 5
+    },
+    {
+      "name": "Sleek Plastic Chair",
+      "userId": 10,
+      "id": 9
+    },
+    {
+      "name": "Electronic Bronze Car",
+      "userId": 10,
+      "id": 10
+    },
+    {
+      "name": "Rustic Granite Bacon",
+      "userId": 10,
+      "id": 11
+    },
+    {
+      "name": "Luxurious Bronze Tuna",
+      "userId": 10,
+      "id": 12
+    },
+    {
+      "name": "Unbranded Metal Pants",
+      "userId": 0,
+      "id": 13
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 13,
+      "url": "https://picsum.photos/seed/HQMpvRdBxf/640/480",
+      "id": 1
+    }
+  ]
+}
